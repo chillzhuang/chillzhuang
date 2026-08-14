@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://blade-ai.oss-cn-hangzhou.aliyuncs.com/github/assets/Pokemon.gif" width="100%" alt="宝可梦奔跑动画" />
-</div>
+  <img src="assets/Pokemon.gif" width="100%" alt="宝可梦奔跑动画" />
 
 <br/>
 
 ## 关于我
 
-<div align="center">
   <p align="center">
     <img src="https://img.shields.io/badge/%E5%BC%80%E6%BA%90%E6%B2%89%E6%B7%80-9%20%E5%B9%B4-2563EB?style=flat-square" alt="9 年开源沉淀" />
     <img src="https://img.shields.io/badge/%E6%8E%88%E6%9D%83%E5%8D%95%E4%BD%8D-6%2C000%2B-0891B2?style=flat-square" alt="6000+ 授权单位" />
@@ -28,7 +26,7 @@
 
 <p align="center">
   <a href="https://saber3.bladex.cn">
-    <img src="https://blade-ai.oss-cn-hangzhou.aliyuncs.com/github/assets/bladex-enterprise.png" width="100%" alt="BladeX 企业级开发平台" />
+    <img src="assets/bladex-enterprise.png" width="100%" alt="BladeX 企业级开发平台" />
   </a>
 </p>
 
@@ -46,7 +44,7 @@
 
 <p align="center">
   <a href="https://links.bladex.cn">
-    <img src="https://blade-ai.oss-cn-hangzhou.aliyuncs.com/github/assets/bladex-iot.png" width="100%" alt="BladeX 物联网开发平台" />
+    <img src="assets/bladex-iot.png" width="100%" alt="BladeX 物联网开发平台" />
   </a>
 </p>
 
@@ -63,7 +61,7 @@
 
 <p align="center">
   <a href="https://aigc.bladex.cn">
-    <img src="https://blade-ai.oss-cn-hangzhou.aliyuncs.com/github/assets/bladex-ai.png" width="100%" alt="BladeX 大模型开发平台" />
+    <img src="assets/bladex-ai.png" width="100%" alt="BladeX 大模型开发平台" />
   </a>
 </p>
 
@@ -85,9 +83,19 @@
   <a href="https://gitee.com/smallc/Saber"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgitee.com%2Fapi%2Fv5%2Frepos%2Fsmallc%2FSaber&amp;query=stargazers_count&amp;label=Saber&amp;logo=gitee&amp;style=flat-square&amp;color=C71D23" alt="Saber 在 Gitee 上的收藏数" height="20" /></a>
 </p>
 
-- **SpringBlade** — 企业级微服务开发平台 · [GitHub](https://github.com/chillzhuang/SpringBlade) · [Gitee](https://gitee.com/smallc/SpringBlade)
-- **BladeTool** — SpringBlade 核心工具包 · [GitHub](https://github.com/chillzhuang/blade-tool) · [Gitee](https://gitee.com/smallc/blade-tool)
-- **Saber** — Vue 3 中后台前端框架 · [GitHub](https://github.com/chillzhuang/Saber) · [Gitee](https://gitee.com/smallc/Saber)
+<p align="center">
+  <strong>SpringBlade</strong> — 企业级微服务开发平台 ·
+  <a href="https://github.com/chillzhuang/SpringBlade">GitHub</a> ·
+  <a href="https://gitee.com/smallc/SpringBlade">Gitee</a>
+  <br/>
+  <strong>BladeTool</strong> — SpringBlade 核心工具包 ·
+  <a href="https://github.com/chillzhuang/blade-tool">GitHub</a> ·
+  <a href="https://gitee.com/smallc/blade-tool">Gitee</a>
+  <br/>
+  <strong>Saber</strong> — Vue 3 中后台前端框架 ·
+  <a href="https://github.com/chillzhuang/Saber">GitHub</a> ·
+  <a href="https://gitee.com/smallc/Saber">Gitee</a>
+</p>
 
 <br/>
 
@@ -161,3 +169,5 @@
   <strong>商务合作</strong><br/>
   <a href="mailto:bladejava@qq.com">bladejava@qq.com</a>
 </p>
+
+</div>
