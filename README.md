@@ -106,7 +106,7 @@
   <a href="https://gitee.com/smallc/SpringBlade"><img src="https://gitee.com/smallc/SpringBlade/badge/star.svg?theme=gvp" alt="SpringBlade 在 Gitee 上的收藏数" height="20" /></a>
   <a href="https://github.com/chillzhuang/SpringBlade"><img src="https://img.shields.io/github/stars/chillzhuang/SpringBlade?style=flat-square&logo=github&label=SpringBlade&color=2563EB" alt="SpringBlade 在 GitHub 上的收藏数" height="20" /></a>
   <a href="https://github.com/chillzhuang/blade-tool"><img src="https://img.shields.io/github/stars/chillzhuang/blade-tool?style=flat-square&logo=github&label=BladeTool&color=0891B2" alt="BladeTool 在 GitHub 上的收藏数" height="20" /></a>
-  <a href="https://gitee.com/smallc/Saber"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgitee.com%2Fapi%2Fv5%2Frepos%2Fsmallc%2FSaber&amp;query=stargazers_count&amp;label=Saber&amp;logo=gitee&amp;style=flat-square&amp;color=C71D23" alt="Saber 在 Gitee 上的收藏数" height="20" /></a>
+  <a href="https://github.com/chillzhuang/Saber"><img src="https://img.shields.io/github/stars/chillzhuang/Saber?style=flat-square&logo=github&label=Saber&color=0F766E" alt="Saber 在 GitHub 上的收藏数" height="20" /></a>
 </p>
 
 <p align="center">
