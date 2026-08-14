@@ -22,6 +22,32 @@
 
 <br/>
 
+## AI影像智能体
+
+<p align="center">
+  <a href="https://github.com/chillzhuang/Kinema">
+    <img src="assets/bladex-kinema.png" width="100%" alt="Kinema AI 影像智能体" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-AGPL%20v3-2563EB?style=flat-square" alt="AGPL v3 开源协议" />
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+" />
+  <img src="https://img.shields.io/badge/FFmpeg-%E5%94%AF%E4%B8%80%E7%A1%AC%E4%BE%9D%E8%B5%96-0891B2?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg 唯一硬依赖" />
+  <img src="https://img.shields.io/badge/CPU-%E6%97%A0%E9%9C%80%E6%98%BE%E5%8D%A1-0F766E?style=flat-square" alt="纯 CPU 无需显卡" />
+</p>
+
+给一个主题，出一条成片。AI 影像创作至今仍是工具之间的手工接力，改一条设定就得重做整条下游。Kinema 把检索、文案、分镜、角色设定、生图、配音、字幕与合成收束为一条智能体全自动链路，影像资产系统化沉淀，可复用、可追溯、可回滚。
+
+自动写小说并逐批通过七门复核，小说改剧本、剧本拆分镜，3D 灰模导演台在渲染付费之前排完走位与运镜，角色设定表让同一张脸稳定在几十个镜头里，系统预设的多种画风换一个参数就换一套画面语言。云端与本地模型自由配置，密钥自持，成片自有。
+
+<p align="center">
+  <a href="https://github.com/chillzhuang/Kinema">开源项目</a> ·
+  <a href="https://bladex.cn">官方网站</a>
+</p>
+
+<br/>
+
 ## 企业级开发平台
 
 <p align="center">
@@ -149,7 +175,7 @@
 
 ## 联系与合作
 
-真正有价值的技术交流，始于具体问题，也落在可验证的结果上。无论你正在规划企业级架构、连接设备智能化，还是推动大模型进入生产环境，都欢迎与我建立合作，共同把复杂问题变成可靠系统。
+真正有价值的技术交流，始于具体问题，也落在可验证的结果上。无论是规划企业级架构、推进设备智能化，还是推动大模型进入生产环境，均可就上述事宜建立深度合作，共同把复杂问题变成可靠系统。
 
 <p>
   <strong>产品与社区</strong><br/>
@@ -169,5 +195,4 @@
   <strong>商务合作</strong><br/>
   <a href="mailto:bladejava@qq.com">bladejava@qq.com</a>
 </p>
-
 </div>
